@@ -1,0 +1,12 @@
+.error {
+  color: crimson;
+}
+
+.item a{
+  color: black;
+  text-decoration: none;
+}
+
+.item a.active{
+  color: aqua;
+}
